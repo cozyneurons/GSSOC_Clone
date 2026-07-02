@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, Text, DateTime
+from sqlalchemy import Column, String, Text, DateTime, Integer
 from sqlalchemy.orm import relationship
 from datetime import datetime
 from app.db.base_class import Base
@@ -13,6 +13,8 @@ class User(Base):
     role = Column(String, nullable=False)
     college = Column(String)
     bio = Column(Text)
+    hashed_password = Column(String, nullable=True)
+    total_points = Column(Integer, default=0)
     joined_at = Column(DateTime, default=datetime.utcnow)
     
     managed_projects = relationship("Project", back_populates="admin")

@@ -9,6 +9,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from app.db.session import SessionLocal, engine
 from app.db.base import Base
 from app.models import User, Project, Issue, PullRequest, Badge, Announcement
+from app.core.security import get_password_hash
 
 def seed_data():
     # In case the tables don't exist, create them
@@ -48,6 +49,8 @@ def seed_data():
             role=u["role"],
             college=u.get("college"),
             bio=u.get("bio"),
+            hashed_password=get_password_hash("password123"),
+            total_points=0,
             joined_at=datetime.fromisoformat(u["joinedAt"])
         )
         db.merge(db_user)
