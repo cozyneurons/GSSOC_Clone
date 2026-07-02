@@ -8,7 +8,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from app.db.session import SessionLocal, engine
 from app.db.base import Base
-from app.models.domain import User, Project, Issue, PullRequest, Badge, Announcement
+from app.models import User, Project, Issue, PullRequest, Badge, Announcement
 
 def seed_data():
     # In case the tables don't exist, create them
@@ -16,7 +16,8 @@ def seed_data():
     
     db = SessionLocal()
     
-    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "data")
+    # data_dir is now inside the backend directory, so we go up only two levels from seed.py
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
     
     with open(os.path.join(data_dir, "users.json")) as f:
         users_data = json.load(f)
