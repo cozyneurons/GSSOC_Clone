@@ -2,10 +2,10 @@ export interface Project {
   id: string;
   name: string;
   description: string;
-  techStack: string[];
-  difficultyLevel: string;
-  repoUrl: string;
+  tech_stack: string[];
+  difficulty_level: string;
+  repo_url: string;
   tags: string[];
   status: string;
-  projectAdminId: string;
+  project_admin_id: string;
 }

@@ -1,11 +1,11 @@
 export interface Issue {
   id: string;
-  projectId: string;
+  project_id: string;
   title: string;
   description: string;
   label: string;
   points: number;
   status: string;
-  assignedTo?: string;
-  createdAt: string;
+  assigned_to?: string;
+  created_at: string;
 }

@@ -1,13 +1,13 @@
 export interface PullRequest {
   id: string;
-  issueId: string;
-  projectId: string;
-  contributorId: string;
-  githubPrUrl: string;
+  issue_id: string;
+  project_id: string;
+  contributor_id: string;
+  github_pr_url: string;
   title: string;
   status: string;
-  pointsAwarded: number;
-  mergedBy?: string;
-  submittedAt: string;
-  mergedAt?: string;
+  points_awarded: number;
+  merged_by?: string;
+  submitted_at: string;
+  merged_at?: string;
 }

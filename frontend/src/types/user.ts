@@ -3,9 +3,9 @@ export interface User {
   name: string;
   email: string;
   username: string;
-  avatarUrl: string;
+  avatar_url: string;
   role: string;
   college?: string;
   bio?: string;
-  joinedAt: string;
+  joined_at: string;
 }
