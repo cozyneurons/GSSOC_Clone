@@ -1,0 +1,209 @@
+{
+  "definitions": [
+    {
+      "id": "badge_1",
+      "name": "First PR Merged",
+      "description": "Awarded for merging the first PR",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "badge_2",
+      "name": "Top 10",
+      "description": "In the top 10 of the leaderboard",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "badge_3",
+      "name": "Level 3 Master",
+      "description": "Completed a Level 3 issue",
+      "icon": "\ud83d\udd25"
+    }
+  ],
+  "userBadges": [
+    {
+      "userId": "56792908-02d5-4a77-9ba9-e926d4c78f79",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-28T04:37:10.554401"
+    },
+    {
+      "userId": "56792908-02d5-4a77-9ba9-e926d4c78f79",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-06-30T18:52:12.226180"
+    },
+    {
+      "userId": "2217f662-43b7-42f9-9d8f-10edba5d801f",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-28T13:10:08.169490"
+    },
+    {
+      "userId": "2217f662-43b7-42f9-9d8f-10edba5d801f",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-02T15:01:19.708745"
+    },
+    {
+      "userId": "592ef20b-6033-4a77-8ec2-1a2167767261",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T20:27:49.259980"
+    },
+    {
+      "userId": "592ef20b-6033-4a77-8ec2-1a2167767261",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-01T07:21:51.267178"
+    },
+    {
+      "userId": "604d5cd3-98bf-41d0-bb58-13a767e3a631",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T02:09:45.453172"
+    },
+    {
+      "userId": "604d5cd3-98bf-41d0-bb58-13a767e3a631",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-02T13:35:02.553070"
+    },
+    {
+      "userId": "4e4ff8ce-0b2f-4b84-988f-4428532b1212",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T15:55:23.802856"
+    },
+    {
+      "userId": "4e4ff8ce-0b2f-4b84-988f-4428532b1212",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-01T15:55:31.254378"
+    },
+    {
+      "userId": "a4f07ee2-95e5-43f0-9234-4c2d95834343",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-28T11:44:46.828426"
+    },
+    {
+      "userId": "a4f07ee2-95e5-43f0-9234-4c2d95834343",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-02T00:49:25.690593"
+    },
+    {
+      "userId": "7d1fcea2-429e-4a7c-9d63-845f907bf881",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-02T14:14:01.581330"
+    },
+    {
+      "userId": "7d1fcea2-429e-4a7c-9d63-845f907bf881",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-02T07:19:32.874680"
+    },
+    {
+      "userId": "5b09badc-a8a7-419b-9f7f-7bbe299db2ff",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-27T22:03:40.504420"
+    },
+    {
+      "userId": "5b09badc-a8a7-419b-9f7f-7bbe299db2ff",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-06-30T18:52:25.991361"
+    },
+    {
+      "userId": "e9ab3c6b-8f7e-4e8a-b306-debf8fbd2d85",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T13:25:51.445789"
+    },
+    {
+      "userId": "e9ab3c6b-8f7e-4e8a-b306-debf8fbd2d85",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-02T06:42:00.221524"
+    },
+    {
+      "userId": "e9542a22-147c-4094-ac9b-9a8666da6f2d",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-01T09:22:18.561201"
+    },
+    {
+      "userId": "e9542a22-147c-4094-ac9b-9a8666da6f2d",
+      "badgeId": "badge_2",
+      "awardedAt": "2026-07-01T06:09:12.700615"
+    },
+    {
+      "userId": "9d6a9a25-c8b3-4b7c-9621-80b685d564b4",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T17:12:16.641895"
+    },
+    {
+      "userId": "f9d5f591-2208-412b-b34f-1aeea2e7a1af",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T16:40:59.338061"
+    },
+    {
+      "userId": "512cd929-98f9-4e05-a12e-d89310c082b3",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T21:51:14.936284"
+    },
+    {
+      "userId": "7702d64a-e3cf-48a9-8181-c0619ecab46d",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-02T03:07:57.183691"
+    },
+    {
+      "userId": "9b290248-f14e-47b4-8571-f441869fb912",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T12:31:45.509729"
+    },
+    {
+      "userId": "b395031c-ebe1-4cb0-821e-5fd84d93f6d1",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T03:54:40.833682"
+    },
+    {
+      "userId": "43d97e17-8071-4465-9e8d-fe42dcfec2af",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T09:23:23.762871"
+    },
+    {
+      "userId": "084dea4d-6e2a-4893-bc15-43efcb6be8dc",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-02T08:59:05.654536"
+    },
+    {
+      "userId": "28ea7501-92c6-4834-ac9d-287748808593",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-02T01:19:39.658668"
+    },
+    {
+      "userId": "2dacff7e-8410-43fb-905a-09c74232a887",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T21:47:43.713714"
+    },
+    {
+      "userId": "814f291d-498e-45a4-a719-972508541a88",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T11:53:31.741603"
+    },
+    {
+      "userId": "ee82fd7f-8227-49e7-825b-15384c392dc2",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-01T02:54:18.717578"
+    },
+    {
+      "userId": "ba6d20dc-6828-4475-b85b-c817c810d40d",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T11:51:08.121353"
+    },
+    {
+      "userId": "b739080c-d9dd-4cac-93b2-d711c486ecd1",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-30T17:08:43.956459"
+    },
+    {
+      "userId": "411303a6-8e46-4b66-8622-9ce2e4467eeb",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-28T13:04:53.059910"
+    },
+    {
+      "userId": "4d51bacb-cd23-4c7a-92b3-5f57ea496b7e",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-06-29T17:37:17.216842"
+    },
+    {
+      "userId": "c3080c3e-965b-4461-8de4-2a946413434b",
+      "badgeId": "badge_1",
+      "awardedAt": "2026-07-02T10:13:33.045412"
+    }
+  ]
+}

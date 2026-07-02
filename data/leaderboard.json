@@ -1,0 +1,322 @@
+[
+  {
+    "userId": "56792908-02d5-4a77-9ba9-e926d4c78f79",
+    "name": "Participant 19",
+    "username": "participant19",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant19",
+    "totalPoints": 95,
+    "rank": 1
+  },
+  {
+    "userId": "2217f662-43b7-42f9-9d8f-10edba5d801f",
+    "name": "Participant 20",
+    "username": "participant20",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant20",
+    "totalPoints": 60,
+    "rank": 2
+  },
+  {
+    "userId": "592ef20b-6033-4a77-8ec2-1a2167767261",
+    "name": "Participant 4",
+    "username": "participant4",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant4",
+    "totalPoints": 55,
+    "rank": 3
+  },
+  {
+    "userId": "604d5cd3-98bf-41d0-bb58-13a767e3a631",
+    "name": "Participant 31",
+    "username": "participant31",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant31",
+    "totalPoints": 55,
+    "rank": 4
+  },
+  {
+    "userId": "4e4ff8ce-0b2f-4b84-988f-4428532b1212",
+    "name": "Participant 1",
+    "username": "participant1",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant1",
+    "totalPoints": 50,
+    "rank": 5
+  },
+  {
+    "userId": "a4f07ee2-95e5-43f0-9234-4c2d95834343",
+    "name": "Participant 28",
+    "username": "participant28",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant28",
+    "totalPoints": 50,
+    "rank": 6
+  },
+  {
+    "userId": "7d1fcea2-429e-4a7c-9d63-845f907bf881",
+    "name": "Participant 6",
+    "username": "participant6",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant6",
+    "totalPoints": 45,
+    "rank": 7
+  },
+  {
+    "userId": "5b09badc-a8a7-419b-9f7f-7bbe299db2ff",
+    "name": "Participant 8",
+    "username": "participant8",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant8",
+    "totalPoints": 45,
+    "rank": 8
+  },
+  {
+    "userId": "e9ab3c6b-8f7e-4e8a-b306-debf8fbd2d85",
+    "name": "Participant 17",
+    "username": "participant17",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant17",
+    "totalPoints": 45,
+    "rank": 9
+  },
+  {
+    "userId": "e9542a22-147c-4094-ac9b-9a8666da6f2d",
+    "name": "Participant 34",
+    "username": "participant34",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant34",
+    "totalPoints": 45,
+    "rank": 10
+  },
+  {
+    "userId": "9d6a9a25-c8b3-4b7c-9621-80b685d564b4",
+    "name": "Participant 35",
+    "username": "participant35",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant35",
+    "totalPoints": 45,
+    "rank": 11
+  },
+  {
+    "userId": "f9d5f591-2208-412b-b34f-1aeea2e7a1af",
+    "name": "Participant 37",
+    "username": "participant37",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant37",
+    "totalPoints": 45,
+    "rank": 12
+  },
+  {
+    "userId": "512cd929-98f9-4e05-a12e-d89310c082b3",
+    "name": "Participant 40",
+    "username": "participant40",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant40",
+    "totalPoints": 45,
+    "rank": 13
+  },
+  {
+    "userId": "7702d64a-e3cf-48a9-8181-c0619ecab46d",
+    "name": "Participant 21",
+    "username": "participant21",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant21",
+    "totalPoints": 35,
+    "rank": 14
+  },
+  {
+    "userId": "9b290248-f14e-47b4-8571-f441869fb912",
+    "name": "Participant 25",
+    "username": "participant25",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant25",
+    "totalPoints": 35,
+    "rank": 15
+  },
+  {
+    "userId": "b395031c-ebe1-4cb0-821e-5fd84d93f6d1",
+    "name": "Participant 38",
+    "username": "participant38",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant38",
+    "totalPoints": 35,
+    "rank": 16
+  },
+  {
+    "userId": "43d97e17-8071-4465-9e8d-fe42dcfec2af",
+    "name": "Participant 14",
+    "username": "participant14",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant14",
+    "totalPoints": 25,
+    "rank": 17
+  },
+  {
+    "userId": "084dea4d-6e2a-4893-bc15-43efcb6be8dc",
+    "name": "Participant 16",
+    "username": "participant16",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant16",
+    "totalPoints": 25,
+    "rank": 18
+  },
+  {
+    "userId": "28ea7501-92c6-4834-ac9d-287748808593",
+    "name": "Participant 18",
+    "username": "participant18",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant18",
+    "totalPoints": 25,
+    "rank": 19
+  },
+  {
+    "userId": "2dacff7e-8410-43fb-905a-09c74232a887",
+    "name": "Participant 26",
+    "username": "participant26",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant26",
+    "totalPoints": 25,
+    "rank": 20
+  },
+  {
+    "userId": "814f291d-498e-45a4-a719-972508541a88",
+    "name": "Participant 30",
+    "username": "participant30",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant30",
+    "totalPoints": 25,
+    "rank": 21
+  },
+  {
+    "userId": "ee82fd7f-8227-49e7-825b-15384c392dc2",
+    "name": "Participant 39",
+    "username": "participant39",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant39",
+    "totalPoints": 25,
+    "rank": 22
+  },
+  {
+    "userId": "ba6d20dc-6828-4475-b85b-c817c810d40d",
+    "name": "Participant 2",
+    "username": "participant2",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant2",
+    "totalPoints": 10,
+    "rank": 23
+  },
+  {
+    "userId": "b739080c-d9dd-4cac-93b2-d711c486ecd1",
+    "name": "Participant 7",
+    "username": "participant7",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant7",
+    "totalPoints": 10,
+    "rank": 24
+  },
+  {
+    "userId": "411303a6-8e46-4b66-8622-9ce2e4467eeb",
+    "name": "Participant 9",
+    "username": "participant9",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant9",
+    "totalPoints": 10,
+    "rank": 25
+  },
+  {
+    "userId": "4d51bacb-cd23-4c7a-92b3-5f57ea496b7e",
+    "name": "Participant 33",
+    "username": "participant33",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant33",
+    "totalPoints": 10,
+    "rank": 26
+  },
+  {
+    "userId": "c3080c3e-965b-4461-8de4-2a946413434b",
+    "name": "Participant 36",
+    "username": "participant36",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant36",
+    "totalPoints": 10,
+    "rank": 27
+  },
+  {
+    "userId": "52ff4a61-d6d5-4ffa-a292-3249b349a6f7",
+    "name": "Participant 3",
+    "username": "participant3",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant3",
+    "totalPoints": 0,
+    "rank": 28
+  },
+  {
+    "userId": "3c46dcba-2698-4831-bd46-8018ec6c5661",
+    "name": "Participant 5",
+    "username": "participant5",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant5",
+    "totalPoints": 0,
+    "rank": 29
+  },
+  {
+    "userId": "8a0abb55-3756-4951-b60d-26bf6c2536fb",
+    "name": "Participant 10",
+    "username": "participant10",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant10",
+    "totalPoints": 0,
+    "rank": 30
+  },
+  {
+    "userId": "924a031b-670e-48b7-be1f-b3d2923fb670",
+    "name": "Participant 11",
+    "username": "participant11",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant11",
+    "totalPoints": 0,
+    "rank": 31
+  },
+  {
+    "userId": "e7448980-4cc9-49a2-8815-8865805d9434",
+    "name": "Participant 12",
+    "username": "participant12",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant12",
+    "totalPoints": 0,
+    "rank": 32
+  },
+  {
+    "userId": "d8f4e754-a15c-4edd-b5aa-47d2d8d823ae",
+    "name": "Participant 13",
+    "username": "participant13",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant13",
+    "totalPoints": 0,
+    "rank": 33
+  },
+  {
+    "userId": "56ad34bf-d7f3-4c42-8d41-900ebc10099e",
+    "name": "Participant 15",
+    "username": "participant15",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant15",
+    "totalPoints": 0,
+    "rank": 34
+  },
+  {
+    "userId": "e4ff6b0e-196f-4c70-84a5-6eec72b73781",
+    "name": "Participant 22",
+    "username": "participant22",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant22",
+    "totalPoints": 0,
+    "rank": 35
+  },
+  {
+    "userId": "f26db7d5-4ca6-4324-95ae-464cf5a0d9ce",
+    "name": "Participant 23",
+    "username": "participant23",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant23",
+    "totalPoints": 0,
+    "rank": 36
+  },
+  {
+    "userId": "c6e54b62-f07f-4318-9009-968526e1efe8",
+    "name": "Participant 24",
+    "username": "participant24",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant24",
+    "totalPoints": 0,
+    "rank": 37
+  },
+  {
+    "userId": "82f32be6-e31e-416b-b334-14a915d83582",
+    "name": "Participant 27",
+    "username": "participant27",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant27",
+    "totalPoints": 0,
+    "rank": 38
+  },
+  {
+    "userId": "5a5b006e-ede0-4d5e-b47c-cd5ad8bde0b8",
+    "name": "Participant 29",
+    "username": "participant29",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant29",
+    "totalPoints": 0,
+    "rank": 39
+  },
+  {
+    "userId": "e65782e3-402e-4893-aed2-06a59e5f4dd1",
+    "name": "Participant 32",
+    "username": "participant32",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=participant32",
+    "totalPoints": 0,
+    "rank": 40
+  }
+]
