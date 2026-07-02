@@ -42,3 +42,6 @@ The backend is a FastAPI application using SQLAlchemy for ORM and Alembic for da
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
 4. Visit `http://localhost:3000` to see the health check in action!
+
+---
+*Happy coding! ✨*
