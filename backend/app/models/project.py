@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, Text, ARRAY, ForeignKey, Table
+from sqlalchemy import Column, String, Text, JSON, ForeignKey, Table
 from sqlalchemy.orm import relationship
 from app.db.base_class import Base
 
@@ -14,10 +14,10 @@ class Project(Base):
     id = Column(String, primary_key=True, index=True)
     name = Column(String, index=True)
     description = Column(Text)
-    tech_stack = Column(ARRAY(String))
+    tech_stack = Column(JSON)
     difficulty_level = Column(String)
     repo_url = Column(String)
-    tags = Column(ARRAY(String))
+    tags = Column(JSON)
     status = Column(String)
     project_admin_id = Column(String, ForeignKey("user.id"))
     

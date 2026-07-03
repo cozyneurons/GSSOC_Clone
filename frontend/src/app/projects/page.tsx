@@ -8,7 +8,7 @@ import { Card, CardHeader, CardTitle, CardContent, CardFooter, CardDescription }
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Search, Filter, Github, Code2, Tag } from "lucide-react";
+import { Search, Filter, GitBranch, Code2, Tag } from "lucide-react";
 
 export default function ProjectsPage() {
   const [projects, setProjects] = useState<Project[]>([]);
@@ -132,7 +132,7 @@ export default function ProjectsPage() {
                   </CardHeader>
                   <CardContent className="flex-1 flex flex-col gap-4">
                     <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                      <Github className="h-4 w-4" />
+                      <GitBranch className="h-4 w-4" />
                       <a href={project.repo_url} target="_blank" rel="noreferrer" className="hover:underline truncate">
                         {project.repo_url.replace("https://github.com/", "")}
                       </a>

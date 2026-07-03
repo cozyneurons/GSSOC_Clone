@@ -1,12 +1,11 @@
 [
   {
-    "id": "e165b0fa-4f92-495e-96ca-08759fa43ec6",
+    "id": "fbf4b69a-53bd-449d-8c73-edad8b0f997f",
     "name": "Project 1",
     "description": "An awesome open source project 1",
     "techStack": [
-      "PostgreSQL",
-      "Node.js",
       "Django",
+      "Node.js",
       "React"
     ],
     "difficultyLevel": "Beginner",
@@ -15,315 +14,328 @@
       "web",
       "backend"
     ],
-    "projectAdminId": "3bb9ef69-0226-44b0-ab63-f297ed0d3e67",
+    "projectAdminId": "c3552627-201c-4d04-ae83-388bb8b090ac",
     "mentorIds": [
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9",
-      "7484a1f8-9f3e-4b06-a8f2-78c5f23e7ad2"
+      "ef4eba01-ca6b-45e2-9197-801347baefa4",
+      "c7aca5ce-f43a-41ce-a1a1-bce0587b2d83"
     ],
     "status": "active"
   },
   {
-    "id": "343bffb1-4fa4-4d7e-b791-89192bdf3e89",
+    "id": "94442282-eaaa-4878-aceb-dce259da4ee7",
     "name": "Project 2",
     "description": "An awesome open source project 2",
     "techStack": [
+      "Node.js",
+      "PostgreSQL",
       "Python",
-      "FastAPI",
-      "Next.js"
+      "React"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Advanced",
     "repoUrl": "https://github.com/gssoc/project-2",
     "tags": [
       "web",
       "backend"
     ],
-    "projectAdminId": "cb80ba19-615e-4871-9348-f9c01d2c9eab",
+    "projectAdminId": "8c28ea4c-a000-4f2b-97d9-d78ceb65b404",
     "mentorIds": [
-      "603ed049-9f1d-47a7-bcc1-4da5e16f3158"
+      "183cc93e-21ca-4d03-b8e9-2708ae1b7475",
+      "35fd22b0-5bf5-4c87-9298-24d6f25d37ea"
     ],
     "status": "active"
   },
   {
-    "id": "d7994eef-7790-4896-a8ec-3443438dd92e",
+    "id": "4787aa40-0cac-49a6-9b68-3a68474ed7ca",
     "name": "Project 3",
     "description": "An awesome open source project 3",
     "techStack": [
-      "React",
       "Node.js",
+      "Next.js",
       "Django"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Advanced",
     "repoUrl": "https://github.com/gssoc/project-3",
     "tags": [
-      "web",
-      "backend"
+      "web"
     ],
-    "projectAdminId": "e219bcad-3f49-46c9-abde-610c34acad15",
+    "projectAdminId": "8c28ea4c-a000-4f2b-97d9-d78ceb65b404",
     "mentorIds": [
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9"
+      "ef4eba01-ca6b-45e2-9197-801347baefa4",
+      "183cc93e-21ca-4d03-b8e9-2708ae1b7475",
+      "0fc8cb73-0be8-48ab-9401-45e21cb2ff81"
     ],
     "status": "active"
   },
   {
-    "id": "f6891ae8-80f8-4eba-93ff-4d12dea3c5b2",
+    "id": "8948fb08-d2c2-4395-806c-86366aeb0d42",
     "name": "Project 4",
     "description": "An awesome open source project 4",
     "techStack": [
       "Next.js",
-      "FastAPI",
-      "MongoDB",
-      "PostgreSQL"
+      "Django",
+      "Node.js",
+      "FastAPI"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Advanced",
     "repoUrl": "https://github.com/gssoc/project-4",
     "tags": [
-      "web",
-      "backend",
-      "frontend"
+      "web"
     ],
-    "projectAdminId": "e219bcad-3f49-46c9-abde-610c34acad15",
+    "projectAdminId": "e9a943cd-128a-45cc-9e11-fb0f5cb361e9",
     "mentorIds": [
-      "7484a1f8-9f3e-4b06-a8f2-78c5f23e7ad2",
-      "603ed049-9f1d-47a7-bcc1-4da5e16f3158"
+      "261ad5a6-bd7e-4e37-abe9-80406669452a",
+      "0fc8cb73-0be8-48ab-9401-45e21cb2ff81",
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4"
     ],
     "status": "active"
   },
   {
-    "id": "1f8575f0-ae62-443b-9ee8-e92039389025",
+    "id": "ad825a6f-dc00-4191-a6c3-ed3e31df8ddb",
     "name": "Project 5",
     "description": "An awesome open source project 5",
     "techStack": [
-      "PostgreSQL",
-      "MongoDB"
+      "Python",
+      "Django"
     ],
-    "difficultyLevel": "Beginner",
+    "difficultyLevel": "Intermediate",
     "repoUrl": "https://github.com/gssoc/project-5",
     "tags": [
       "web",
-      "backend",
-      "frontend"
+      "backend"
     ],
-    "projectAdminId": "e219bcad-3f49-46c9-abde-610c34acad15",
+    "projectAdminId": "aad36655-0d70-46c0-bf54-69d840028b3a",
     "mentorIds": [
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9"
+      "35fd22b0-5bf5-4c87-9298-24d6f25d37ea"
     ],
     "status": "active"
   },
   {
-    "id": "81fe0929-9a34-4376-96d2-aea7a8f5c1c9",
+    "id": "fd01a229-29a0-4ff0-ab59-2271be041135",
     "name": "Project 6",
     "description": "An awesome open source project 6",
     "techStack": [
-      "FastAPI",
-      "Node.js",
-      "Django"
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "MongoDB"
     ],
-    "difficultyLevel": "Advanced",
+    "difficultyLevel": "Intermediate",
     "repoUrl": "https://github.com/gssoc/project-6",
     "tags": [
-      "web",
-      "backend"
+      "web"
     ],
-    "projectAdminId": "63cbd9dc-1141-4c95-9551-25e9f94ef055",
+    "projectAdminId": "aad36655-0d70-46c0-bf54-69d840028b3a",
     "mentorIds": [
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9",
-      "74f96760-cb08-4e74-a6df-5f7bdd118cce"
+      "ef4eba01-ca6b-45e2-9197-801347baefa4",
+      "0f9a3d68-2fb3-4f40-80e9-686b52ab395f"
     ],
     "status": "active"
   },
   {
-    "id": "be842386-cd7a-4319-a828-80f962630262",
+    "id": "81757e61-8ffc-440c-a047-642ba5260288",
     "name": "Project 7",
     "description": "An awesome open source project 7",
     "techStack": [
-      "React",
-      "FastAPI"
+      "MongoDB",
+      "Node.js",
+      "FastAPI",
+      "Next.js"
     ],
-    "difficultyLevel": "Advanced",
+    "difficultyLevel": "Beginner",
     "repoUrl": "https://github.com/gssoc/project-7",
-    "tags": [
-      "web",
-      "backend"
-    ],
-    "projectAdminId": "194314c5-1580-4b44-9e8c-339917958869",
-    "mentorIds": [
-      "603ed049-9f1d-47a7-bcc1-4da5e16f3158"
-    ],
-    "status": "active"
-  },
-  {
-    "id": "56b55888-d7ec-42e0-9477-b2433116a704",
-    "name": "Project 8",
-    "description": "An awesome open source project 8",
-    "techStack": [
-      "PostgreSQL",
-      "Python",
-      "Django",
-      "FastAPI"
-    ],
-    "difficultyLevel": "Advanced",
-    "repoUrl": "https://github.com/gssoc/project-8",
     "tags": [
       "web",
       "backend",
       "frontend"
     ],
-    "projectAdminId": "194314c5-1580-4b44-9e8c-339917958869",
+    "projectAdminId": "8c28ea4c-a000-4f2b-97d9-d78ceb65b404",
     "mentorIds": [
-      "7484a1f8-9f3e-4b06-a8f2-78c5f23e7ad2",
-      "74f96760-cb08-4e74-a6df-5f7bdd118cce"
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4"
     ],
     "status": "active"
   },
   {
-    "id": "8d9701f6-e929-4e1a-b653-5a1ec047f205",
+    "id": "6b2349b0-092e-4a77-8b90-32525355df37",
+    "name": "Project 8",
+    "description": "An awesome open source project 8",
+    "techStack": [
+      "Django",
+      "PostgreSQL",
+      "Node.js",
+      "Python"
+    ],
+    "difficultyLevel": "Beginner",
+    "repoUrl": "https://github.com/gssoc/project-8",
+    "tags": [
+      "web",
+      "backend"
+    ],
+    "projectAdminId": "e9a943cd-128a-45cc-9e11-fb0f5cb361e9",
+    "mentorIds": [
+      "c7aca5ce-f43a-41ce-a1a1-bce0587b2d83",
+      "0fc8cb73-0be8-48ab-9401-45e21cb2ff81",
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "6d9705c9-7cf2-4d96-9147-cdf8b3dd3bc1",
     "name": "Project 9",
     "description": "An awesome open source project 9",
     "techStack": [
-      "Node.js",
-      "Next.js"
+      "Next.js",
+      "PostgreSQL",
+      "React",
+      "Django"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Advanced",
     "repoUrl": "https://github.com/gssoc/project-9",
     "tags": [
       "web",
       "backend"
     ],
-    "projectAdminId": "194314c5-1580-4b44-9e8c-339917958869",
+    "projectAdminId": "f7ee651e-0f91-4853-a948-7b1a7ae1e32e",
     "mentorIds": [
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9"
+      "0fc8cb73-0be8-48ab-9401-45e21cb2ff81",
+      "261ad5a6-bd7e-4e37-abe9-80406669452a"
     ],
     "status": "active"
   },
   {
-    "id": "09572903-157d-45e7-8842-15ae6434d9a8",
+    "id": "205f1bee-34a2-4eb4-b265-1e59f959ed1c",
     "name": "Project 10",
     "description": "An awesome open source project 10",
     "techStack": [
-      "FastAPI",
+      "MongoDB",
       "Next.js"
     ],
     "difficultyLevel": "Advanced",
     "repoUrl": "https://github.com/gssoc/project-10",
     "tags": [
-      "web"
+      "web",
+      "backend",
+      "frontend"
     ],
-    "projectAdminId": "63cbd9dc-1141-4c95-9551-25e9f94ef055",
+    "projectAdminId": "f7ee651e-0f91-4853-a948-7b1a7ae1e32e",
     "mentorIds": [
-      "74f96760-cb08-4e74-a6df-5f7bdd118cce",
-      "628cd60a-fe49-4a2e-a94b-597d099167a0"
+      "0f9a3d68-2fb3-4f40-80e9-686b52ab395f",
+      "ef4eba01-ca6b-45e2-9197-801347baefa4"
     ],
     "status": "active"
   },
   {
-    "id": "3d938def-6fe3-4769-ab63-26015d657b1e",
+    "id": "4598655e-2c1d-438f-bf17-3fa75ed36c21",
     "name": "Project 11",
     "description": "An awesome open source project 11",
     "techStack": [
-      "Python",
-      "MongoDB",
-      "PostgreSQL"
+      "Next.js",
+      "FastAPI"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Beginner",
     "repoUrl": "https://github.com/gssoc/project-11",
     "tags": [
       "web",
       "backend",
       "frontend"
     ],
-    "projectAdminId": "3bb9ef69-0226-44b0-ab63-f297ed0d3e67",
+    "projectAdminId": "f7ee651e-0f91-4853-a948-7b1a7ae1e32e",
     "mentorIds": [
-      "82c74187-1845-4a64-aa8d-cb6fbb8bab14",
-      "7484a1f8-9f3e-4b06-a8f2-78c5f23e7ad2",
-      "628cd60a-fe49-4a2e-a94b-597d099167a0"
+      "ef4eba01-ca6b-45e2-9197-801347baefa4",
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4",
+      "183cc93e-21ca-4d03-b8e9-2708ae1b7475"
     ],
     "status": "active"
   },
   {
-    "id": "6705ad63-8d7f-4f63-9e74-ab9b078b361c",
+    "id": "1f797108-bde5-4013-af08-6a422441b18a",
     "name": "Project 12",
     "description": "An awesome open source project 12",
     "techStack": [
-      "FastAPI",
       "Django",
-      "React"
+      "Next.js",
+      "PostgreSQL"
     ],
-    "difficultyLevel": "Beginner",
+    "difficultyLevel": "Intermediate",
     "repoUrl": "https://github.com/gssoc/project-12",
     "tags": [
       "web",
       "backend",
       "frontend"
     ],
-    "projectAdminId": "194314c5-1580-4b44-9e8c-339917958869",
+    "projectAdminId": "c3552627-201c-4d04-ae83-388bb8b090ac",
     "mentorIds": [
-      "74f96760-cb08-4e74-a6df-5f7bdd118cce",
-      "13f2a486-dacf-486d-8842-b9ea6d56605c"
+      "c7aca5ce-f43a-41ce-a1a1-bce0587b2d83"
     ],
     "status": "active"
   },
   {
-    "id": "8db67ebc-2fc8-48c2-a43f-abf69e7e496a",
+    "id": "0874b6a1-5196-432b-b089-935f7d895aee",
     "name": "Project 13",
     "description": "An awesome open source project 13",
     "techStack": [
-      "FastAPI",
-      "Node.js",
-      "MongoDB"
+      "Next.js",
+      "MongoDB",
+      "PostgreSQL",
+      "FastAPI"
     ],
-    "difficultyLevel": "Intermediate",
+    "difficultyLevel": "Beginner",
     "repoUrl": "https://github.com/gssoc/project-13",
     "tags": [
       "web",
       "backend"
     ],
-    "projectAdminId": "e219bcad-3f49-46c9-abde-610c34acad15",
+    "projectAdminId": "8c28ea4c-a000-4f2b-97d9-d78ceb65b404",
     "mentorIds": [
-      "628cd60a-fe49-4a2e-a94b-597d099167a0",
-      "095d1aab-7c2c-43e6-84e2-0bb0608dfae9"
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4",
+      "261ad5a6-bd7e-4e37-abe9-80406669452a",
+      "0f9a3d68-2fb3-4f40-80e9-686b52ab395f"
     ],
     "status": "active"
   },
   {
-    "id": "f8488f19-52b5-41ef-b46f-b44636586b87",
+    "id": "724f9574-8818-4eb2-8448-6112cf4f350a",
     "name": "Project 14",
     "description": "An awesome open source project 14",
     "techStack": [
-      "Node.js",
+      "FastAPI",
       "Next.js",
       "MongoDB"
     ],
-    "difficultyLevel": "Advanced",
+    "difficultyLevel": "Intermediate",
     "repoUrl": "https://github.com/gssoc/project-14",
     "tags": [
       "web",
       "backend",
       "frontend"
     ],
-    "projectAdminId": "e219bcad-3f49-46c9-abde-610c34acad15",
+    "projectAdminId": "f7ee651e-0f91-4853-a948-7b1a7ae1e32e",
     "mentorIds": [
-      "7484a1f8-9f3e-4b06-a8f2-78c5f23e7ad2",
-      "82c74187-1845-4a64-aa8d-cb6fbb8bab14"
+      "ef4eba01-ca6b-45e2-9197-801347baefa4",
+      "c7aca5ce-f43a-41ce-a1a1-bce0587b2d83",
+      "0fc8cb73-0be8-48ab-9401-45e21cb2ff81"
     ],
     "status": "active"
   },
   {
-    "id": "f4d69dc6-4ee2-4240-b987-071e8b2d8677",
+    "id": "7a2bf6f8-40ea-44ef-94e4-db70e56fee66",
     "name": "Project 15",
     "description": "An awesome open source project 15",
     "techStack": [
-      "Python",
+      "FastAPI",
+      "Django",
       "Node.js"
     ],
     "difficultyLevel": "Intermediate",
     "repoUrl": "https://github.com/gssoc/project-15",
     "tags": [
       "web",
-      "backend"
+      "backend",
+      "frontend"
     ],
-    "projectAdminId": "3bb9ef69-0226-44b0-ab63-f297ed0d3e67",
+    "projectAdminId": "e9a943cd-128a-45cc-9e11-fb0f5cb361e9",
     "mentorIds": [
-      "603ed049-9f1d-47a7-bcc1-4da5e16f3158"
+      "35fd22b0-5bf5-4c87-9298-24d6f25d37ea",
+      "d2ed8196-2b68-4e24-ad23-48c73f289ba4"
     ],
     "status": "active"
   }

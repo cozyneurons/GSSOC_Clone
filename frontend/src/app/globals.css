@@ -3,9 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --primary: #9333ea; /* Purple 600 */
+  --primary: #f97316; /* Orange 500 */
   --primary-foreground: #ffffff;
-  --secondary: #db2777; /* Pink 600 */
+  --secondary: #ea580c; /* Orange 600 */
   --secondary-foreground: #ffffff;
   --muted: #f3f4f6; /* Gray 100 */
   --muted-foreground: #6b7280; /* Gray 500 */
@@ -34,9 +34,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
-    --primary: #a855f7; /* Purple 500 */
+    --primary: #ea580c; /* Orange 600 */
     --primary-foreground: #ffffff;
-    --secondary: #ec4899; /* Pink 500 */
+    --secondary: #f97316; /* Orange 500 */
     --secondary-foreground: #ffffff;
     --muted: #1f2937; /* Gray 800 */
     --muted-foreground: #9ca3af; /* Gray 400 */

@@ -1,51 +1,51 @@
 [
   {
-    "id": "d07a9405-6b6f-445e-9251-576389ff73f8",
+    "id": "2b23be3d-db10-4085-ac9d-2c53b3fddb5d",
     "title": "Announcement 1",
     "content": "This is an important announcement about the program 1.",
-    "authorId": "74335252-c724-46c3-bbfd-4431df8600a5",
-    "createdAt": "2026-06-28T02:03:37.240749"
+    "authorId": "58d02619-a820-41a0-bfa8-646439f1a602",
+    "createdAt": "2026-06-17T11:44:18.944204"
   },
   {
-    "id": "b112e8c1-a4d7-469e-a35c-54528cc09bea",
+    "id": "00197603-b0e0-4490-a483-169fea9b5cd4",
     "title": "Announcement 2",
     "content": "This is an important announcement about the program 2.",
-    "authorId": "75500e29-eea0-4e90-a084-bdd874b7d8d7",
-    "createdAt": "2026-06-28T01:30:48.924955"
+    "authorId": "289a9122-90d5-4934-bfc1-aaf60242a58c",
+    "createdAt": "2026-06-27T00:11:17.414783"
   },
   {
-    "id": "e3c00090-b021-4caf-8f07-19574e13212f",
+    "id": "8c232095-9fbe-4c5c-84b2-ac7b9c587e2e",
     "title": "Announcement 3",
     "content": "This is an important announcement about the program 3.",
-    "authorId": "75500e29-eea0-4e90-a084-bdd874b7d8d7",
-    "createdAt": "2026-06-17T14:02:38.614750"
+    "authorId": "58d02619-a820-41a0-bfa8-646439f1a602",
+    "createdAt": "2026-06-19T10:35:07.299135"
   },
   {
-    "id": "46e19e3e-1e5f-49fe-a61b-54a42eb5143c",
+    "id": "36380011-3d54-471c-8964-f59b9ec93c9b",
     "title": "Announcement 4",
     "content": "This is an important announcement about the program 4.",
-    "authorId": "74335252-c724-46c3-bbfd-4431df8600a5",
-    "createdAt": "2026-06-25T04:20:24.412743"
+    "authorId": "289a9122-90d5-4934-bfc1-aaf60242a58c",
+    "createdAt": "2026-06-30T23:08:31.455500"
   },
   {
-    "id": "d93f2434-ae55-4688-8971-9de16bf40758",
+    "id": "bf54adba-41df-42a5-8fe9-4513c548b616",
     "title": "Announcement 5",
     "content": "This is an important announcement about the program 5.",
-    "authorId": "75500e29-eea0-4e90-a084-bdd874b7d8d7",
-    "createdAt": "2026-06-22T16:37:10.997563"
+    "authorId": "58d02619-a820-41a0-bfa8-646439f1a602",
+    "createdAt": "2026-06-28T13:42:04.023054"
   },
   {
-    "id": "d076edaf-8052-4c95-9379-668dafeb9df7",
+    "id": "70fec1be-734f-4f4b-b6b6-c6ae58adb4a9",
     "title": "Announcement 6",
     "content": "This is an important announcement about the program 6.",
-    "authorId": "74335252-c724-46c3-bbfd-4431df8600a5",
-    "createdAt": "2026-06-14T17:46:36.092305"
+    "authorId": "58d02619-a820-41a0-bfa8-646439f1a602",
+    "createdAt": "2026-06-20T13:21:31.473193"
   },
   {
-    "id": "9f248d88-f8dd-43ba-9f2d-46726cf6f720",
+    "id": "ebda9ead-1765-4f1f-863b-ed8d949db20c",
     "title": "Announcement 7",
     "content": "This is an important announcement about the program 7.",
-    "authorId": "74335252-c724-46c3-bbfd-4431df8600a5",
-    "createdAt": "2026-06-28T11:24:07.467782"
+    "authorId": "289a9122-90d5-4934-bfc1-aaf60242a58c",
+    "createdAt": "2026-06-26T12:23:13.993639"
   }
 ]

@@ -35,22 +35,30 @@ export default function Home() {
   return (
     <div className="flex flex-col gap-16 pb-16">
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-primary/10 to-background pt-24 pb-32 text-center">
+      <section className="relative overflow-hidden bg-gradient-to-b from-primary/20 via-background to-background pt-32 pb-40 text-center">
+        {/* Decorative background shapes */}
+        <div className="absolute top-[-10%] left-[-10%] w-96 h-96 bg-primary/20 rounded-full blur-3xl mix-blend-multiply opacity-70 animate-pulse dark:mix-blend-lighten"></div>
+        <div className="absolute bottom-[-10%] right-[-10%] w-96 h-96 bg-secondary/20 rounded-full blur-3xl mix-blend-multiply opacity-70 animate-pulse delay-1000 dark:mix-blend-lighten"></div>
+
         <div className="container mx-auto px-4 relative z-10 flex flex-col items-center">
-          <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
+          <div className="inline-flex items-center rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-sm font-medium text-primary mb-8">
+            <span className="flex h-2 w-2 rounded-full bg-primary mr-2"></span>
+            GSSoC 2026 is Here!
+          </div>
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary via-orange-400 to-secondary drop-shadow-sm">
             GirlScript Summer of Code
           </h1>
-          <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mb-10">
-            A three-month-long open-source program designed to help beginners start their open-source journey.
+          <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mb-10 font-medium">
+            A three-month-long open-source program designed to help beginners start their open-source journey and make a global impact.
           </p>
-          <div className="flex gap-4">
+          <div className="flex flex-col sm:flex-row gap-4">
             <Link href="/projects">
-              <Button size="lg" className="gap-2">
+              <Button size="lg" className="gap-2 hover:scale-105 transition-transform shadow-lg shadow-primary/20">
                 Explore Projects <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
             <Link href="/login">
-              <Button size="lg" variant="outline">
+              <Button size="lg" variant="outline" className="hover:scale-105 transition-transform bg-background/50 backdrop-blur-sm border-primary/20 hover:bg-primary/5 hover:text-primary">
                 Login / Register
               </Button>
             </Link>

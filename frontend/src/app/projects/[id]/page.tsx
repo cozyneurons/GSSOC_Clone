@@ -7,7 +7,7 @@ import { Project, Issue } from "@/types";
 import { Card, CardHeader, CardTitle, CardContent, CardDescription, CardFooter } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { ArrowLeft, Github, AlertCircle, Coins } from "lucide-react";
+import { ArrowLeft, GitBranch, AlertCircle, Coins } from "lucide-react";
 import Link from "next/link";
 import { useAuth } from "@/context/AuthContext";
 
@@ -88,7 +88,7 @@ export default function ProjectDetailsPage() {
             <div className="flex items-center gap-2 mb-8">
               <a href={project.repo_url} target="_blank" rel="noreferrer">
                 <Button variant="outline" className="gap-2">
-                  <Github className="h-4 w-4" /> View Repository
+                  <GitBranch className="h-4 w-4" /> View Repository
                 </Button>
               </a>
             </div>
