@@ -5,7 +5,7 @@ import { fetchAPI } from "@/lib/api";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from "@/components/ui/card";
-import { Users, Code, GitMerge, Megaphone, Calendar, ArrowRight } from "lucide-react";
+import { Users, Code, GitMerge, Megaphone, Calendar, ArrowRight, Trophy, Gift, Sparkles, BookOpen, MessageSquare } from "lucide-react";
 import { Announcement } from "@/types";
 
 export default function Home() {
@@ -174,6 +174,195 @@ export default function Home() {
           </div>
         </section>
       </div>
+
+      {/* Why Participate Section */}
+      <section className="container mx-auto px-4 mt-20">
+        <div className="text-center mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Participate in GSSoC?</h2>
+          <p className="text-muted-foreground max-w-2xl mx-auto">
+            Whether you are a beginner looking for your first pull request or a mentor wanting to guide the next generation, there is something for everyone.
+          </p>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <Card className="border-primary/10 hover:border-primary/30 transition-colors bg-gradient-to-br from-background to-primary/5">
+            <CardHeader>
+              <div className="p-3 bg-primary/10 w-fit rounded-lg mb-4 text-primary">
+                <BookOpen className="h-6 w-6" />
+              </div>
+              <CardTitle>Learn & Grow</CardTitle>
+            </CardHeader>
+            <CardContent className="text-sm text-muted-foreground">
+              Gain hands-on experience by working on real-world projects with experienced mentors.
+            </CardContent>
+          </Card>
+
+          <Card className="border-secondary/10 hover:border-secondary/30 transition-colors bg-gradient-to-br from-background to-secondary/5">
+            <CardHeader>
+              <div className="p-3 bg-secondary/10 w-fit rounded-lg mb-4 text-secondary">
+                <Gift className="h-6 w-6" />
+              </div>
+              <CardTitle>Swags & Prizes</CardTitle>
+            </CardHeader>
+            <CardContent className="text-sm text-muted-foreground">
+              Top contributors and mentors receive exclusive GSSoC swags, certificates, and prizes.
+            </CardContent>
+          </Card>
+
+          <Card className="border-primary/10 hover:border-primary/30 transition-colors bg-gradient-to-br from-background to-primary/5">
+            <CardHeader>
+              <div className="p-3 bg-primary/10 w-fit rounded-lg mb-4 text-primary">
+                <Users className="h-6 w-6" />
+              </div>
+              <CardTitle>Networking</CardTitle>
+            </CardHeader>
+            <CardContent className="text-sm text-muted-foreground">
+              Connect with like-minded developers, industry experts, and build a strong professional network.
+            </CardContent>
+          </Card>
+
+          <Card className="border-secondary/10 hover:border-secondary/30 transition-colors bg-gradient-to-br from-background to-secondary/5">
+            <CardHeader>
+              <div className="p-3 bg-secondary/10 w-fit rounded-lg mb-4 text-secondary">
+                <Trophy className="h-6 w-6" />
+              </div>
+              <CardTitle>Stand Out</CardTitle>
+            </CardHeader>
+            <CardContent className="text-sm text-muted-foreground">
+              Build a strong GitHub profile and resume that will help you stand out to recruiters.
+            </CardContent>
+          </Card>
+        </div>
+      </section>
+
+      {/* How it Works */}
+      <section className="bg-muted/30 py-20 mt-20">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">How it Works</h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto">
+              Your journey from a beginner to an open-source contributor in 4 simple steps.
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 relative">
+            <div className="hidden md:block absolute top-12 left-[12%] right-[12%] h-[2px] bg-border z-0"></div>
+            
+            <div className="relative z-10 flex flex-col items-center text-center group">
+              <div className="w-24 h-24 rounded-full bg-background border-4 border-primary/20 flex items-center justify-center mb-6 group-hover:border-primary transition-colors shadow-sm">
+                <span className="text-3xl font-bold text-primary">1</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">Register</h3>
+              <p className="text-sm text-muted-foreground">Sign up as a participant or a mentor for the program.</p>
+            </div>
+            
+            <div className="relative z-10 flex flex-col items-center text-center group">
+              <div className="w-24 h-24 rounded-full bg-background border-4 border-secondary/20 flex items-center justify-center mb-6 group-hover:border-secondary transition-colors shadow-sm">
+                <span className="text-3xl font-bold text-secondary">2</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">Explore</h3>
+              <p className="text-sm text-muted-foreground">Browse through hundreds of participating open-source projects.</p>
+            </div>
+            
+            <div className="relative z-10 flex flex-col items-center text-center group">
+              <div className="w-24 h-24 rounded-full bg-background border-4 border-primary/20 flex items-center justify-center mb-6 group-hover:border-primary transition-colors shadow-sm">
+                <span className="text-3xl font-bold text-primary">3</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">Contribute</h3>
+              <p className="text-sm text-muted-foreground">Claim issues, write code, and submit pull requests.</p>
+            </div>
+            
+            <div className="relative z-10 flex flex-col items-center text-center group">
+              <div className="w-24 h-24 rounded-full bg-background border-4 border-secondary/20 flex items-center justify-center mb-6 group-hover:border-secondary transition-colors shadow-sm">
+                <span className="text-3xl font-bold text-secondary">4</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">Win</h3>
+              <p className="text-sm text-muted-foreground">Earn points, climb the leaderboard, and win exciting swags.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="container mx-auto px-4 mt-20">
+        <div className="flex flex-col md:flex-row gap-12 items-start">
+          <div className="md:w-1/3">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Frequently Asked Questions</h2>
+            <p className="text-muted-foreground mb-6">
+              Have a question that is not answered here? Reach out to us on our community channels.
+            </p>
+            <Button variant="outline" className="gap-2">
+              <MessageSquare className="w-4 h-4" />
+              Join Discord
+            </Button>
+          </div>
+          
+          <div className="md:w-2/3 space-y-4">
+            <details className="group bg-card border rounded-lg p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer shadow-sm">
+              <summary className="flex items-center justify-between font-semibold text-lg">
+                Who can participate in GSSoC?
+                <span className="transition group-open:rotate-180">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-muted-foreground mt-4 leading-relaxed">
+                Anyone! Whether you are a beginner or a seasoned professional, as long as you have the enthusiasm to learn and contribute to open-source, you are welcome to join. There are no age or demographic restrictions.
+              </p>
+            </details>
+            
+            <details className="group bg-card border rounded-lg p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer shadow-sm">
+              <summary className="flex items-center justify-between font-semibold text-lg">
+                Is there any registration fee?
+                <span className="transition group-open:rotate-180">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-muted-foreground mt-4 leading-relaxed">
+                No, participation in GirlScript Summer of Code is absolutely free of cost. We believe in providing equal opportunities for everyone to learn and grow without any financial barriers.
+              </p>
+            </details>
+            
+            <details className="group bg-card border rounded-lg p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer shadow-sm">
+              <summary className="flex items-center justify-between font-semibold text-lg">
+                I am a beginner, can I participate?
+                <span className="transition group-open:rotate-180">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-muted-foreground mt-4 leading-relaxed">
+                Absolutely! GSSoC is specifically designed to help beginners start their open-source journey. Our mentors are extremely helpful and will guide you through your first pull request and beyond.
+              </p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="container mx-auto px-4 mt-20 mb-8">
+        <div className="bg-gradient-to-r from-primary via-orange-400 to-secondary rounded-3xl p-8 md:p-16 text-center text-white relative overflow-hidden shadow-2xl">
+          <div className="absolute top-0 right-0 p-8 opacity-20">
+            <Sparkles className="w-32 h-32" />
+          </div>
+          <div className="relative z-10 max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-5xl font-bold mb-6">Ready to start your open-source journey?</h2>
+            <p className="text-white/90 text-lg md:text-xl mb-10">
+              Join thousands of developers worldwide and make your mark in the open-source community.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="/register">
+                <Button size="lg" variant="secondary" className="w-full sm:w-auto text-primary font-bold hover:scale-105 transition-transform">
+                  Register as Participant
+                </Button>
+              </Link>
+              <Link href="/register/mentor">
+                <Button size="lg" className="w-full sm:w-auto bg-black/20 hover:bg-black/30 text-white border-none hover:scale-105 transition-transform">
+                  Apply as Mentor
+                </Button>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
